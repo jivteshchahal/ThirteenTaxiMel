@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.ThirteenTaxiMel"
-        android:fullBackupContent="">
+        android:fullBackupContent="true">
         <activity
             android:name=".SplashActivity"
             android:exported="true">
