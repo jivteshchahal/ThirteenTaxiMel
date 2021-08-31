@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThirteenTaxiMel</string>
+    <string name="webUrl">https://newtaxiapp.herokuapp.com/</string>
+    <string name="tagTelphone">tel:</string>
+    <string name="tagMailto">mailto:</string>
+    <string name="emailAddressOfRep">jivteshchahal@gmail.com,13taximel@gmail.com</string>
+    <string name="mailSubject">Taxi Booking(Phone App)</string>
+    <string name="mailCC">\" \"</string>
+    <string name="tagMailtoMsg">message/rfc822</string>
+    <string name="tagToastNoInternet">No Internet Connected</string>
+</resources>
